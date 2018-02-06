@@ -15,4 +15,5 @@ default values of "top: 770px" and "right: -12px" is fine for my 2048x1152 scree
 2) Adjust the color and opacity of the indicator bar in the background-color tag. The default uses a
 red bar at 0.4% opacity.
 
+Screenshot
 ![Alt text](/screenshot.png?raw=true)
