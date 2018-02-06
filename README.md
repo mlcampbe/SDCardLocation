@@ -9,7 +9,7 @@ This very simple widget will show a small vertical bar on the right-hand side of
 slot is located so that you can align the SD card to be inserted with the correct slot without having to 
 look around to the side of the iMac.
 
-Setup:
+# Install
 1) You will need to modify the "top" and "right" values according to your screen size and resolution. The 
 default values of "top: 770px" and "right: -12px" is fine for my 2048x1152 screen size.
 2) Adjust the color and opacity of the indicator bar in the background-color tag. The default uses a
