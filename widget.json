@@ -1,6 +1,6 @@
 {
   "name": "SDCardLocation",
-  "description": "a short(!) description",
+  "description": "Ubersicht widget to visually see where the SD card slot is on an iMac",
   "author": "Mike Campbell",
   "email": "mlcampbell@gmail.com"
 }
