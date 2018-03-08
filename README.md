@@ -12,8 +12,7 @@ look around to the side of the iMac.
 # Install
 1) You will need to modify the "top" and "right" values according to your screen size and resolution. The 
 default values of "top: 770px" and "right: -12px" is fine for my 2048x1152 screen size.
-2) Adjust the color and opacity of the indicator bar in the background-color tag. The default uses a
-red bar at 0.4% opacity.
+2) Adjust the color and opacity of the indicator bar in the background-color tag. The default uses a bar at 0.4% opacity.
 
 # Screenshot
 ![Alt text](/screenshot.png?raw=true)
